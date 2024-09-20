@@ -1,3 +1,4 @@
+<p align="left"> <img src="aghmaz.png" alt="aghmaz" /> </p>
 <h1 align="center">Hi 👋, I'm Aghmaz Asad Sani</h1>
 <h3 align="center">Software Engineer with good problem solving and debugging skill from Pakistan</h3>
 
